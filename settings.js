@@ -18,9 +18,9 @@ global.autoread = true // auto read pesan / message
 //global.available = true //status online (online)
 
 // Other
-global.botname = "AZZBOT-MD" //namabot kalian
-global.ownername= "Yahya×፝֟͜×" //nama kalian
-global.myweb ="https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g" //bebas asal jan hapus
+global.botname = "amd-MD" //namabot kalian
+global.ownername= "amd" //nama kalian
+global.myweb ="pc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g" //bebas asal jan hapus
 global.github = "https://github.com/AzzBott679" //bebas
 global.email = "sdxshaders@gmaill.com" //bebas
